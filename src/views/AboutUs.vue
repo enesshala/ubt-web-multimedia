@@ -101,7 +101,7 @@
                 />
                 <div class="member-info">
                   <div class="member-info-content">
-                    <h4>Besfort Sherifi</h4>
+                    <h4>Donat Xhemajli</h4>
                     <span>Cook</span>
                   </div>
                   <div class="social">
@@ -137,7 +137,6 @@ export default {
 </script>
 
 <style scoped>
-
 .aboutUsDiv {
   width: 50%;
   margin: 10px;
@@ -219,7 +218,7 @@ export default {
 }
 
 .chefs .member .social a:hover {
-  color: #4F94F1;
+  color: #4f94f1;
 }
 
 .chefs .member .social i {
